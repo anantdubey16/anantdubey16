@@ -1,4 +1,8 @@
-<img align="centre" alt="Coding" width="4000" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
+
+![Anant Dubey (2)](https://user-images.githubusercontent.com/81023294/168225826-055f6531-a52e-41b4-8042-23611a5ee9eb.gif)
+
+
+
 <h1 align="center">Hi 👋, I'm Anant Dubey</h1>
 <h4 align="center">Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ability to come up with interesting ideas for unforgettable campaigns.</h4>
 
