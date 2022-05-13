@@ -1,5 +1,6 @@
+<img align="centre" alt="Coding" width="4000" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 <h1 align="center">Hi 👋, I'm Anant Dubey</h1>
-<h3 align="center">Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ability to come up with interesting ideas for unforgettable campaigns.</h3>
+<h4 align="center">Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ability to come up with interesting ideas for unforgettable campaigns.</h4>
 
 - 📫 How to reach me **anantdubey750@gmail.com**
 
