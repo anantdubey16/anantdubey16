@@ -10,11 +10,11 @@
 
 - 👨‍💻 Check my portfolio [https://anantdubey16.github.io/Myportfolio/](https://anantdubey16.github.io/Myportfolio/)
 
-- 💬 Ask me about **UI UX Designing and Front-end**
+- 💬 Ask me about **UI UX Designing,Java, Flutter**
 
 - 📫 How to reach me **anantdubey750@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VNPbIHYNw9st4fP57cFES_iy1ZD3YJ8W/view?usp=sharing](https://drive.google.com/file/d/1VNPbIHYNw9st4fP57cFES_iy1ZD3YJ8W/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1VNPbIHYNw9st4fP57cFES_iy1ZD3YJ8W/view?usp=sharing](https://drive.google.com/file/d/1ycD6HsmKxmiUwEVl990T29OICMrNGwqt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
