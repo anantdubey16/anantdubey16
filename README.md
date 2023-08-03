@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 👨‍💻 Check my portfolio [https://anantdubey16.github.io/Myportfolio/](https://anantdubey16.github.io/Myportfolio/)
+- 👨‍💻 Check my portfolio [[https://anantdubey16.github.io/Myportfolio/](https://anantdubey.vercel.app/)](https://anantdubey16.github.io/Myportfolio/)
 
 - 💬 Ask me about **UI UX Designing,Java, Flutter**
 
